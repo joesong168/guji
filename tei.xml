@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>古文通止</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>今秘阁</p>
+      </publicationStmt>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language>zh-CN</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="image">https://devcn.image.huiyouwenhua.com/image/1696435292994/full/max/0/default.jpg</div>
+      <div type="transcript">易傳卷第五李氏集解序卦曰有天地然後有萬物有萬物然後有男女有男女然後有夫婦有夫婦然後有父子有父子然後有君臣有君臣然後有上下有上下然後禮義有所錯韓康伯曰言咸卦之義也成柔上而剛下感應以相與夫婦之象莫美乎斯人倫之道莫大夫婦故夫子殷勤深述其義义崇人倫之</div>
+      <div type="punctuation">易傳卷第五
+李氏集解
+
+序卦曰：「有天地，然後有萬物；有萬物，然後有男女；有男女，然後有夫婦；有夫婦，然後有父子；有父子，然後有君臣；有君臣，然後有上下；有上下，然後禮義有所錯。」
+
+韓康伯曰：「言咸卦之義也，成柔上而剛下，感應以相與夫婦之象莫美乎斯人倫之道莫大夫婦。故夫子殷勤深述其義，义崇人倫之。」</div>
+      <div type="note"/>
+      <div type="translation_chinese">易经卷第五《《易传注》李氏集解》
+
+序卦称：“有了天和地，才有万物；有了万物，才有男和女；有了男和女，才有夫婦；有了夫婦，才有父子；有了父子，才有君臣；有了君臣，才有上下；有了上下，才有礼义的错误。”
+
+韩康伯说：“言即咸卦的意义，成柔上而刚下，感应产生了夫婦之象，再美妙不过符合人伦道理的夫妻关系。因此，孔子非常详细地阐述了它的意义，以弘扬人伦之道。”</div>
+      <div type="translation_english">Yi Zhuan, Volume Five
+Li's Collected Exegesis
+
+Introduction to the Hexagram:
+"First, there is heaven and earth, then there are myriad things. With the existence of myriad things, there are men and women. With the presence of men and women, there are husbands and wives. With the presence of husbands and wives, there are fathers and sons. With the existence of fathers and sons, there are rulers and subjects. With the existence of rulers and subjects, there is hierarchy. With hierarchy, there arises the necessity of ritual and righteousness."
+
+Han Kangbo said, "This passage speaks of the meaning of the Xian hexagram. It illustrates the balance of softness above and firmness below, and the harmonious interaction between husband and wife. There is nothing more beautiful in the way of human relationships than the husband-wife bond. Therefore, Confucius diligently expounds on its significance, emphasizing the importance of respecting the relationships between people."
+
+Notes:</div>
+    </body>
+  </text>
+</TEI>
