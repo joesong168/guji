@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>古文通止</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>今秘阁</p>
+      </publicationStmt>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language>zh-CN</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="image">https://devcn.image.huiyouwenhua.com/image/1696902951102/full/max/0/default.jpg</div>
+      <div type="transcript">昔黃帝作内經十八卷靈樞九卷素間九卷迺焉世所奉行唯素問耳越人得其一二而述難經甫謐次而為甲乙諸家之説悉自此始其間或有得失未一可為後世法則謂如南陽活人書稱欬逆者也謹按靈樞經曰新穀氣入于胃與故寒氣相爭故目噦舉而並之則理可斷矣又如難經弟六十五篇是越人標指靈樞本輸之大畧世或以為流注謹按靈樞經曰所言節者神氣之所遊行出入也非皮肉筋骨也又日神氣者正宗也神氣之所遊行出入者流注也井榮输經合者本輪也舉而並之則知相去是恒品</div>
+      <div type="punctuation">昔黃帝作内經十八卷，靈樞九卷，素問九卷，迺焉世所奉行。唯素問耳。越人得其一二而述難經，甫謐次而為甲乙諸家之説，悉自此始。其間或有得失未一，可為後世法則。謂如南陽活人書稱欬逆者也，謹按靈樞經曰：“新穀氣入于胃與故寒氣相爭，故目噦舉而並之，則理可斷矣。”又如難經弟六十五篇，是越人標指靈樞本輸之大畧，世或以為流注，謹按靈樞經曰：“所言節者，神氣之所遊行出入也，非皮肉筋骨也。”又曰：“日神氣者，正宗也。神氣之所遊行出入者，流注也。”井榮输經合者，本輪也。舉而並之，則知相去是恒品。</div>
+      <div type="note"/>
+      <div type="translation_chinese">在古时候，黄帝写了《内经》十八卷，《灵枢》九卷，《素问》九卷，这在世间被广泛传颂。只有《素问》一书被特别崇敬。后来有越人学习其中的一二篇，并开始讲述难以理解的经文，接着又出现了各种不同的学说，从此开始了。其中有些学说有得有失，可以作为后世的法则。比如南阳活人所著的《欬逆》一书，他认为咳嗽是由于新谷气与旧寒气相抗，所以眼睛会发涩。这样的解释是可以被指证的。再比如《难经》共六十五篇，是越人根据《灵枢》来总结的大要，有人以为这是在加工改编，但按照《灵枢》的解释来看，“所言节者，是指神气在人体内的流动，不是皮肉筋骨。”又说：“日神气者，是指正宗，神气在人体内的流动。”井荣输经合者，是从源头出发。把这些理解融合在一起，就知道它们之间的差距是恒定的。</div>
+      <div type="translation_english">In ancient times, the Yellow Emperor wrote the Neijing in eighteen volumes, the Ling Shu in nine volumes, and the Su Wen in nine volumes. These were then followed and practiced by people in the world, only the Su Wen in particular. The people of Yue obtained one or two volumes and then began to explain the difficult classics. Gradually, different schools and theories emerged. There were successes and failures along the way, which can serve as guidelines for future generations. For example, the Shen Nong's Materia Medica of Nanyang mentioned respiratory disorder, but according to the Ling Shu, it says, "When the new grain energy enters the stomach and conflicts with the old cold energy, the eyes will roll up and vomit, which can be resolved." Another example is the sixty-fifth section in the "Difficult Classics", which is a summary that the Yue people made based on the Ling Shu. Some people believe it is a deviation, but according to the Ling Shu, it says, "When it talks about 'meridians', it refers to the circulation and movement of spiritual energy, not the skin, flesh, tendons, and bones." It also says, "The solar spiritual energy is the authentic source. The circulation and movement of spiritual energy are the meridians." The Jing Rong Shu Jing, which combines various classics, is the essence. By examining them together, one can determine the constant principles. 
+
+Notes:</div>
+    </body>
+  </text>
+</TEI>
